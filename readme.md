@@ -1,13 +1,7 @@
-This is an example of RESTful CRUD in Node.js n mySQL.
-
-Installation, and tutorial here : http://teknosains.com/i/restful-crud-example-with-nodejs-and-mysql 
-
-Live DEMO: http://teknosains.com/i/simple-crud-nodejs-mysql
-
 ## Installation
 *for newbies : Clone or download zip to your machine then hit this :
 
-    cd rest-crud
+    cd crud-nodejs-with-mysql
 
 then
 
