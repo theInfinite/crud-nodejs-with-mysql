@@ -1,6 +1,6 @@
 {
-  "name": "rest-crud",
-  "description": "REST CRUD Example Node.js & Mysql",
+  "name": "crud-nodejs-with-mysql",
+  "description": "CRUD Example Node.js & Mysql",
   "version": "0.0.1",
   "private": true,
   "main": "server.js",
